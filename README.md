@@ -24,6 +24,9 @@ This project showcases an end-to-end declarative Salesforce solution designed to
 *(Insert your screenshots here)*
 -*Caption: Visual automation logic handling the Lead-to-Campaign routing.*
 
+-**[Insert Screenshot of Flow Canvas Here]** 
+  *Caption: Visual automation logic handling the Lead-to-Campaign routing.*
+
 - **[Insert Screenshot of ROI Formula Here]** 
   *Caption: Custom Summary Formula validation in the Salesforce Report Builder.*
 
@@ -31,7 +34,7 @@ This project showcases an end-to-end declarative Salesforce solution designed to
   *Caption: The resulting report displaying the calculated Marketing ROI alongside standard metrics.*
 
 - **[Insert Screenshot of Executive Dashboard Here]** 
-  *Caption: High-level dashboard visualizing campaign success and total ROI for stakeholders
+  *Caption: High-level dashboard visualizing campaign success and total ROI for stakeholders.*
 
 ---
 *Built as a portfolio project to demonstrate Salesforce declarative development skills.*
