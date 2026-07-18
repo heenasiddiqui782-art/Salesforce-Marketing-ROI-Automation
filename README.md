@@ -1,4 +1,4 @@
-<img width="1215" height="918" alt="P3 ( s4 )" src="https://github.com/user-attachments/assets/93146e04-6c0c-45c5-8d7c-9a684adf5f50" />
+
 # Salesforce Marketing ROI Automation ☁️
 
 ## Project Overview
