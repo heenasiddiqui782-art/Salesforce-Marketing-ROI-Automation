@@ -21,10 +21,9 @@ This project showcases an end-to-end declarative Salesforce solution designed to
 *   **Logic:** `(AMOUNT:SUM - Campaign.Budgeted_Cost__c:SUM) / Campaign.Budgeted_Cost__c:SUM`
 
 ## Project Showcase
-*(Insert your screenshots here)*
--*Caption: Visual automation logic handling the Lead-to-Campaign routing.*
+*(See the visuals below for a walkthrough of the configuration and final output)*
 
--**[Insert Screenshot of Flow Canvas Here]** 
+- **[Insert Screenshot of Flow Canvas Here]** 
   *Caption: Visual automation logic handling the Lead-to-Campaign routing.*
 
 - **[Insert Screenshot of ROI Formula Here]** 
